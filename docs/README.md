@@ -1,7 +1,7 @@
 ---
 home: true
-heroText: 崔城的小站
-tagline: 记录我的前端开发的琐碎事
+heroText: 潘小七的博客
+tagline: 举杯邀明月，对影成三人~
 ---
 
 <!-- 向下跳转的style -->
