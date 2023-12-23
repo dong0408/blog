@@ -10,7 +10,7 @@ module.exports = {
     ['link', { rel: 'icon', href: '/headPortrait.jpg' }]
   ],
   base: '/my-blog/',
-  title: '潘小七的博客',
+  title: '穷小白的博客',
   description: '举杯邀明月，对影成三人~',
   theme: 'reco',
   dest: "./docs/.vuepress/dist",
@@ -48,32 +48,32 @@ module.exports = {
     nav: [
       { text: '首页', link: '/', icon: 'reco-home' },
       { text: '时间线', link: '/timeline/', icon: 'reco-date' },
-      {
-				text: "简历",
-				icon: "reco-message",
-				items: [{
-					text: "我的简历",
-					link: "/views/Resume/resume"
-				}]
-			},
-      {
-        text: '友情链接',
-        icon: "reco-message",
-        items: [
-          { text: 'Gitee', link: 'https://gitee.com/bestcuicheng', icon: 'reco-mayun' },
-          { text: 'Github', link: 'https://github.com/CuiChengweb', icon: 'reco-github' },
-          {
-						text: "稀土掘金",
-						link: "https://juejin.cn/user/4262162784847127/posts",
-						icon: "reco-juejin"
-					},
-          {
-						text: "Leetcode",
-						link: "https://leetcode.cn/u/silly-heyrovskys1p/",
-						icon: "reco-coding"
-					},
-        ]
-      }
+      // {
+			// 	text: "简历",
+			// 	icon: "reco-message",
+			// 	items: [{
+			// 		text: "我的简历",
+			// 		link: "/views/Resume/resume"
+			// 	}]
+			// },
+      // {
+      //   text: '友情链接',
+      //   icon: "reco-message",
+      //   items: [
+      //     { text: 'Gitee', link: 'https://gitee.com/bestcuicheng', icon: 'reco-mayun' },
+      //     { text: 'Github', link: 'https://github.com/CuiChengweb', icon: 'reco-github' },
+      //     {
+			// 			text: "稀土掘金",
+			// 			link: "https://juejin.cn/user/4262162784847127/posts",
+			// 			icon: "reco-juejin"
+			// 		},
+      //     {
+			// 			text: "Leetcode",
+			// 			link: "https://leetcode.cn/u/silly-heyrovskys1p/",
+			// 			icon: "reco-coding"
+			// 		},
+      //   ]
+      // }
     ],
     sidebar: "auto",
     friendLink: [
@@ -111,7 +111,7 @@ module.exports = {
       {
         theme: [ 'wanko','whiteCat', 'blackCat', 'haru1', 'haru2', 'haruto', 'koharu', 'izumi', 'shizuku', 'miku', 'z16'],
         messages: {
-          welcome: '欢迎来到小七的博客',
+          welcome: '欢迎来到小白的博客',
            home: '心里的花，我想要带你回家。', 
            theme: '好吧，希望你能喜欢我的其他小伙伴。', 
            close: '你知道我喜欢吃什么吗？痴痴地望着你。'

@@ -1,7 +1,7 @@
 ---
 title: 快速理解JS中原型+原型链 
 date: 2022-07-19
-author: 潘小七
+author: 穷小白
 tags:
  - 八股文
 categories: 

@@ -1,7 +1,7 @@
 ---
 title: 在写vue的项目中为什么index不能做key使用？ 
 date: 2022-09-25
-author: 潘小七
+author: 穷小白
 tags:
  - vue
 categories: 

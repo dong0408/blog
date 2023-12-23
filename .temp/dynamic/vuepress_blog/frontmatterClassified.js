@@ -3,20 +3,12 @@
  */
 export default {
   "tags": {
-    "Array": {
-      "key": "Array",
-      "scope": "tags",
-      "path": "/tag/Array/",
-      "pageKeys": [
-        "v-e5e0fe6e"
-      ]
-    },
     "Object": {
       "key": "Object",
       "scope": "tags",
       "path": "/tag/Object/",
       "pageKeys": [
-        "v-f0706712"
+        "v-b5425aa6"
       ]
     },
     "CSS": {
@@ -24,8 +16,16 @@ export default {
       "scope": "tags",
       "path": "/tag/CSS/",
       "pageKeys": [
-        "v-9fe2b1ae",
-        "v-aff5cace"
+        "v-78061042",
+        "v-1fa58acf"
+      ]
+    },
+    "Array": {
+      "key": "Array",
+      "scope": "tags",
+      "path": "/tag/Array/",
+      "pageKeys": [
+        "v-29fe9c7f"
       ]
     },
     "ES6": {
@@ -33,9 +33,9 @@ export default {
       "scope": "tags",
       "path": "/tag/ES6/",
       "pageKeys": [
-        "v-0358ec01",
-        "v-3e3dd055",
-        "v-a5656b56"
+        "v-7af95c37",
+        "v-0fdacb8b",
+        "v-6a375eea"
       ]
     },
     "javaScript": {
@@ -43,7 +43,7 @@ export default {
       "scope": "tags",
       "path": "/tag/javaScript/",
       "pageKeys": [
-        "v-df3d0682"
+        "v-0801ecf5"
       ]
     },
     "继承": {
@@ -51,8 +51,8 @@ export default {
       "scope": "tags",
       "path": "/tag/继承/",
       "pageKeys": [
-        "v-0e5598c9",
-        "v-1b0b2b7a"
+        "v-3072887f",
+        "v-6a1ada79"
       ]
     },
     "深浅拷贝": {
@@ -60,25 +60,7 @@ export default {
       "scope": "tags",
       "path": "/tag/深浅拷贝/",
       "pageKeys": [
-        "v-13992cb6"
-      ]
-    },
-    "跨域": {
-      "key": "跨域",
-      "scope": "tags",
-      "path": "/tag/跨域/",
-      "pageKeys": [
-        "v-6acefb49"
-      ]
-    },
-    "八股文": {
-      "key": "八股文",
-      "scope": "tags",
-      "path": "/tag/八股文/",
-      "pageKeys": [
-        "v-71c273d9",
-        "v-05314a2e",
-        "v-7df24409"
+        "v-69d6624a"
       ]
     },
     "类型转换": {
@@ -86,7 +68,25 @@ export default {
       "scope": "tags",
       "path": "/tag/类型转换/",
       "pageKeys": [
-        "v-4ece73e9"
+        "v-0cdc6c9f"
+      ]
+    },
+    "八股文": {
+      "key": "八股文",
+      "scope": "tags",
+      "path": "/tag/八股文/",
+      "pageKeys": [
+        "v-51d5f082",
+        "v-ff3b63e2",
+        "v-390d00c2"
+      ]
+    },
+    "跨域": {
+      "key": "跨域",
+      "scope": "tags",
+      "path": "/tag/跨域/",
+      "pageKeys": [
+        "v-07be16ff"
       ]
     },
     "vue": {
@@ -94,7 +94,7 @@ export default {
       "scope": "tags",
       "path": "/tag/vue/",
       "pageKeys": [
-        "v-b6468ab8"
+        "v-c701914c"
       ]
     },
     "router": {
@@ -102,15 +102,7 @@ export default {
       "scope": "tags",
       "path": "/tag/router/",
       "pageKeys": [
-        "v-82ca6f7a"
-      ]
-    },
-    "发布订阅": {
-      "key": "发布订阅",
-      "scope": "tags",
-      "path": "/tag/发布订阅/",
-      "pageKeys": [
-        "v-19aad16e"
+        "v-5b89e3f9"
       ]
     },
     "扁平化": {
@@ -118,7 +110,15 @@ export default {
       "scope": "tags",
       "path": "/tag/扁平化/",
       "pageKeys": [
-        "v-5129e529"
+        "v-373c09df"
+      ]
+    },
+    "发布订阅": {
+      "key": "发布订阅",
+      "scope": "tags",
+      "path": "/tag/发布订阅/",
+      "pageKeys": [
+        "v-4d868802"
       ]
     },
     "面试题": {
@@ -126,7 +126,7 @@ export default {
       "scope": "tags",
       "path": "/tag/面试题/",
       "pageKeys": [
-        "v-48a3cb09"
+        "v-59e905bf"
       ]
     }
   },
@@ -136,10 +136,10 @@ export default {
       "scope": "categories",
       "path": "/categories/Byte/",
       "pageKeys": [
-        "v-e5e0fe6e",
-        "v-f0706712",
-        "v-9fe2b1ae",
-        "v-aff5cace"
+        "v-b5425aa6",
+        "v-78061042",
+        "v-29fe9c7f",
+        "v-1fa58acf"
       ]
     },
     "ES6": {
@@ -147,9 +147,9 @@ export default {
       "scope": "categories",
       "path": "/categories/ES6/",
       "pageKeys": [
-        "v-0358ec01",
-        "v-3e3dd055",
-        "v-a5656b56"
+        "v-7af95c37",
+        "v-0fdacb8b",
+        "v-6a375eea"
       ]
     },
     "JavaScript": {
@@ -157,14 +157,14 @@ export default {
       "scope": "categories",
       "path": "/categories/JavaScript/",
       "pageKeys": [
-        "v-df3d0682",
-        "v-0e5598c9",
-        "v-13992cb6",
-        "v-1b0b2b7a",
-        "v-71c273d9",
-        "v-4ece73e9",
-        "v-05314a2e",
-        "v-7df24409"
+        "v-0801ecf5",
+        "v-3072887f",
+        "v-69d6624a",
+        "v-0cdc6c9f",
+        "v-6a1ada79",
+        "v-51d5f082",
+        "v-ff3b63e2",
+        "v-390d00c2"
       ]
     },
     "Node": {
@@ -172,7 +172,7 @@ export default {
       "scope": "categories",
       "path": "/categories/Node/",
       "pageKeys": [
-        "v-6acefb49"
+        "v-07be16ff"
       ]
     },
     "Vue": {
@@ -180,8 +180,8 @@ export default {
       "scope": "categories",
       "path": "/categories/Vue/",
       "pageKeys": [
-        "v-b6468ab8",
-        "v-82ca6f7a"
+        "v-c701914c",
+        "v-5b89e3f9"
       ]
     },
     "andition": {
@@ -189,9 +189,9 @@ export default {
       "scope": "categories",
       "path": "/categories/andition/",
       "pageKeys": [
-        "v-19aad16e",
-        "v-5129e529",
-        "v-48a3cb09"
+        "v-373c09df",
+        "v-4d868802",
+        "v-59e905bf"
       ]
     }
   },

@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 潘小七的博客
+heroText: 穷小白的博客
 tagline: 举杯邀明月，对影成三人~
 ---
 

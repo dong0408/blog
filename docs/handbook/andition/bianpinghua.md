@@ -1,7 +1,7 @@
 ---
 title: 数组扁平化AND对象扁平化 
 date: 2022-12-09
-author: 潘小七
+author: 穷小白
 tags:
  - 扁平化
 categories: 

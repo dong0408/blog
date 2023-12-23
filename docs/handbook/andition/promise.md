@@ -1,7 +1,7 @@
 ---
 title: 面试版简化Promise的实现 
 date: 2022-08-29
-author: 潘小七
+author: 穷小白
 tags:
  - 面试题
 categories: 

@@ -1,7 +1,7 @@
 ---
 title: 深or浅拷贝，带你从入门到精通 
 date: 2022-12-24
-author: 潘小七
+author: 穷小白
 tags:
  - 深浅拷贝
 categories: 

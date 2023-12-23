@@ -1,7 +1,7 @@
 ---
 title: 小白必看——作用域与作用域链
 date: 2022-07-06
-author: 潘小七
+author: 穷小白
 tags:
  - 八股文
 categories: 

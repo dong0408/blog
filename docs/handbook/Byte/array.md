@@ -1,7 +1,7 @@
 ---
 title: 数组各种好用API的手写 
 date: 2022-12-06
-author: 潘小七
+author: 穷小白
 tags:
  - Array
 categories: 

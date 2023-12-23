@@ -1,7 +1,7 @@
 ---
 title: JavaScript的6种常用继承方式  
 date: 2022-12-09
-author: 潘小七
+author: 穷小白
 tags:
  - 继承
 categories: 

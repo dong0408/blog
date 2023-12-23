@@ -1,7 +1,7 @@
 ---
 title: 简洁明了的循环写法 for in-of 
 date: 2022-07-31
-author: 潘小七
+author: 穷小白
 tags:
  - ES6
 categories: 

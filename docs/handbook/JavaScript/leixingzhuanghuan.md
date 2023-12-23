@@ -1,7 +1,7 @@
 ---
 title: 解析JS中的类型转换 
 date: 2022-08-29
-author: 潘小七
+author: 穷小白
 tags:
  - 类型转换
 categories: 

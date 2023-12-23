@@ -1,7 +1,7 @@
 ---
 title: 最常见解决跨域的三种方式 
 date: 2022-09-26
-author: 潘小七
+author: 穷小白
 tags:
  - 跨域
 categories: 

@@ -1,7 +1,7 @@
 ---
 title: '面试题: 你会写发布订阅吗？' 
 date: 2022-12-08
-author: 潘小七
+author: 穷小白
 tags:
  - 发布订阅
 categories: 

@@ -1,7 +1,7 @@
 ---
 title: ES6——promise对象  
 date: 2022-07-20
-author: 潘小七
+author: 穷小白
 tags:
  - ES6
 categories: 

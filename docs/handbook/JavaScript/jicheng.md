@@ -1,7 +1,7 @@
 ---
 title: JS语言的一座小山坡——‘this’  
 date: 2022-07-10
-author: 潘小七
+author: 穷小白
 tags:
  - 继承
 categories: 

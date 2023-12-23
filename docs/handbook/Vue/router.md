@@ -1,7 +1,7 @@
 ---
 title: 你知道Vue中router实现原理吗? 
 date: 2022-10-10
-author: 潘小七
+author: 穷小白
 tags:
  - router
 categories: 

@@ -1,7 +1,7 @@
 ---
 title: 对象各种好用的API手写 
 date: 2022-12-07
-author: 潘小七
+author: 穷小白
 tags:
  - Object
 categories: 

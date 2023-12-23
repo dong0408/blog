@@ -1,7 +1,7 @@
 ---
 title: 你会写显示绑定方法吗？
 date: 2022-12-10
-author: 潘小七
+author: 穷小白
 tags:
  - 八股文
 categories: 

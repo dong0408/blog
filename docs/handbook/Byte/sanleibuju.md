@@ -1,7 +1,7 @@
 ---
 title: CSS经典三列布局—圣杯布局与双飞翼布局 
 date: 2022-07-10
-author: 潘小七
+author: 穷小白
 tags:
  - CSS
 categories: 

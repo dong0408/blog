@@ -1,7 +1,7 @@
 ---
 title: 来手撸一个简化版Ajax 
 date: 2022-09-25
-author: 潘小七
+author: 穷小白
 tags:
  - javaScript
 categories: 

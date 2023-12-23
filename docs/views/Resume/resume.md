@@ -6,4 +6,4 @@ sticky: 1
 ---
 
 
-<img src="./jianli.jpg" width="100%" >
+<!-- <img src="./jianli.jpg" width="100%" > -->
