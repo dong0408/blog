@@ -11,6 +11,14 @@ export default {
         "v-b5425aa6"
       ]
     },
+    "Array": {
+      "key": "Array",
+      "scope": "tags",
+      "path": "/tag/Array/",
+      "pageKeys": [
+        "v-29fe9c7f"
+      ]
+    },
     "CSS": {
       "key": "CSS",
       "scope": "tags",
@@ -20,30 +28,14 @@ export default {
         "v-1fa58acf"
       ]
     },
-    "Array": {
-      "key": "Array",
-      "scope": "tags",
-      "path": "/tag/Array/",
-      "pageKeys": [
-        "v-29fe9c7f"
-      ]
-    },
     "ES6": {
       "key": "ES6",
       "scope": "tags",
       "path": "/tag/ES6/",
       "pageKeys": [
         "v-7af95c37",
-        "v-0fdacb8b",
-        "v-6a375eea"
-      ]
-    },
-    "javaScript": {
-      "key": "javaScript",
-      "scope": "tags",
-      "path": "/tag/javaScript/",
-      "pageKeys": [
-        "v-0801ecf5"
+        "v-6a375eea",
+        "v-0fdacb8b"
       ]
     },
     "继承": {
@@ -53,6 +45,14 @@ export default {
       "pageKeys": [
         "v-3072887f",
         "v-6a1ada79"
+      ]
+    },
+    "javaScript": {
+      "key": "javaScript",
+      "scope": "tags",
+      "path": "/tag/javaScript/",
+      "pageKeys": [
+        "v-0801ecf5"
       ]
     },
     "深浅拷贝": {
@@ -81,20 +81,20 @@ export default {
         "v-390d00c2"
       ]
     },
-    "跨域": {
-      "key": "跨域",
-      "scope": "tags",
-      "path": "/tag/跨域/",
-      "pageKeys": [
-        "v-07be16ff"
-      ]
-    },
     "vue": {
       "key": "vue",
       "scope": "tags",
       "path": "/tag/vue/",
       "pageKeys": [
         "v-c701914c"
+      ]
+    },
+    "跨域": {
+      "key": "跨域",
+      "scope": "tags",
+      "path": "/tag/跨域/",
+      "pageKeys": [
+        "v-07be16ff"
       ]
     },
     "router": {
@@ -137,8 +137,8 @@ export default {
       "path": "/categories/Byte/",
       "pageKeys": [
         "v-b5425aa6",
-        "v-78061042",
         "v-29fe9c7f",
+        "v-78061042",
         "v-1fa58acf"
       ]
     },
@@ -148,8 +148,8 @@ export default {
       "path": "/categories/ES6/",
       "pageKeys": [
         "v-7af95c37",
-        "v-0fdacb8b",
-        "v-6a375eea"
+        "v-6a375eea",
+        "v-0fdacb8b"
       ]
     },
     "JavaScript": {
@@ -157,22 +157,14 @@ export default {
       "scope": "categories",
       "path": "/categories/JavaScript/",
       "pageKeys": [
-        "v-0801ecf5",
         "v-3072887f",
+        "v-0801ecf5",
         "v-69d6624a",
         "v-0cdc6c9f",
         "v-6a1ada79",
         "v-51d5f082",
         "v-ff3b63e2",
         "v-390d00c2"
-      ]
-    },
-    "Node": {
-      "key": "Node",
-      "scope": "categories",
-      "path": "/categories/Node/",
-      "pageKeys": [
-        "v-07be16ff"
       ]
     },
     "Vue": {
@@ -182,6 +174,14 @@ export default {
       "pageKeys": [
         "v-c701914c",
         "v-5b89e3f9"
+      ]
+    },
+    "Node": {
+      "key": "Node",
+      "scope": "categories",
+      "path": "/categories/Node/",
+      "pageKeys": [
+        "v-07be16ff"
       ]
     },
     "andition": {

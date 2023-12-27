@@ -4,11 +4,7 @@
 ## 项目启动教程
   1. 首先，先执行以下命令下载项目
   ```
-   git clone git@gitee.com:bestcuicheng/vuepress.git
-  ```
-  如果你没有gitee的账号，请用以下方式
-  ```
-  git clone https://gitee.com/bestcuicheng/vuepress.git
+   git clone https://github.com/dong0408/blog.git
   ```
 
   2. 在项目根目录执行命令，下载依赖

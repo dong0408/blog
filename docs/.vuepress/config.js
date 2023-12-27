@@ -9,7 +9,7 @@ module.exports = {
     // 博客前的头像
     ['link', { rel: 'icon', href: '/headPortrait.jpg' }]
   ],
-  base: '/my-blog/',
+  base: '/',
   title: '穷小白的博客',
   description: '举杯邀明月，对影成三人~',
   theme: 'reco',
@@ -25,20 +25,20 @@ module.exports = {
         location: 3,
         text: "标签"
       },
-      socialLinks: [     // 信息栏展示社交信息
-        { link: 'https://gitee.com/xiaopanpanya', icon: 'reco-mayun' },
-        { link: 'https://github.com/xiaopanopan', icon: 'reco-github' },
-        {
-          text: "稀土掘金",
-          link: "https://juejin.cn/user/4262162784847127/posts",
-          icon: "reco-juejin"
-        },
-        {
-          text: "Leetcode",
-          link: "https://leetcode.cn/u/silly-heyrovskys1p/",
-          icon: "reco-coding"
-        },
-      ]
+      // socialLinks: [     // 信息栏展示社交信息
+      //   { link: 'https://gitee.com/xiaopanpanya', icon: 'reco-mayun' },
+      //   { link: 'https://github.com/xiaopanopan', icon: 'reco-github' },
+      //   {
+      //     text: "稀土掘金",
+      //     link: "https://juejin.cn/user/4262162784847127/posts",
+      //     icon: "reco-juejin"
+      //   },
+      //   {
+      //     text: "Leetcode",
+      //     link: "https://leetcode.cn/u/silly-heyrovskys1p/",
+      //     icon: "reco-coding"
+      //   },
+      // ]
     },
     mode: 'dark', // 默认 auto，auto 跟随系统，dark 暗色模式，light 亮色模式
     authorAvatar: 'headPortrait.jpg',
@@ -206,15 +206,15 @@ module.exports = {
         autoplay: true,
         audios: [
           {
-            name: '有何不可',
-            artist: '许嵩',
-            url: 'http://music.163.com/song/media/outer/url?id=167876.mp3',
-            songPic: 'http://p1.music.126.net/KyBR4ZDYFlzQJE_uyvfjpA==/109951166118671647.jpg?param=130y130'
+            name: '宾克斯的美酒',
+            artist: '田中真弓',
+            url: 'https://music.163.com/#/song?id=4938709',
+            songPic: '/headPortrait.jpg'
           },
           {
-            name: '悔过',
-            artist: '王贰浪',
-            url: 'http://music.163.com/song/media/outer/url?id=1809760190.mp3',
+            name: '人类的光',
+            artist: '矢野立美',
+            url: 'https://music.163.com/#/song?id=490885245',
             songPic: 'http://p2.music.126.net/o4FJ43VDbkAwGUtbhtEB1Q==/109951165609167257.jpg?param=130y130'
           },
          
